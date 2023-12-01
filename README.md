@@ -1,2 +1,2 @@
-# 2023May30_TiradoMock
-TiradoMock
+# TiradoMock Sequencing data
+Created by Sihan Bu.
